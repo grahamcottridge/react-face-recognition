@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "clarifai": "^2.9.1",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-particles-js": "^2.7.0",
