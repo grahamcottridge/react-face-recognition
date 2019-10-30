@@ -6,13 +6,13 @@
     "clarifai": "^2.9.1",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
     "react-particles-js": "^2.7.0",
     "react-scripts": "1.1.4",
     "react-tilt": "^0.1.4",
     "tachyons": "^4.10.0",
-    "webpack-dev-server": "^3.8.2"
+    "webpack-dev-server": "^3.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
